@@ -1,3 +1,8 @@
+# Exercise complete, 14.06.2025.
+
+Return true for numbers >= 10 and false otherwise
+
+
 # Exercise 03 - numberChecker
 
 Modify the code so it returns `true` when the number is greater than or equal to 10, and `false` if it is less than 10.
