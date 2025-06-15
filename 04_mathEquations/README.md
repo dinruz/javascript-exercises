@@ -1,3 +1,7 @@
+# Exercise complete, 14.06.2025.
+
+Variables turned from strings to math equations
+
 # Exercise 04 - mathEquations
 
 Replace the strings to the right of the `=` with the expression they describe. Do **not** manually enter the answers to the equation.
