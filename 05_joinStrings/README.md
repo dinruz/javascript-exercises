@@ -1,3 +1,7 @@
+# Exercise complete, 14.06.2025.
+
+Recreated exampled code using multiple variables and joined them
+
 # Exercise 05 - joinStrings
 
 ## Step 1: Learn
