@@ -1,5 +1,7 @@
 # Exercise 06 - repeatString
 
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 Write a function that simply repeats the string a given number of times:
 
 ```javascript
