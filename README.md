@@ -1,20 +1,23 @@
 # JavaScript Exercises
 
-These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
+These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/).
+They should only be done when instructed during the course of the curriculum.
 
+---
 
 ## Table of Contents
 
 - [Exercises](#exercises)
 - [Instructions](#top-instructions)
-   - [Contributing](#contributing)
-   - [How to Use](#how-to-use)
+    - [Contributing](#contributing)
+    - [How to Use](#how-to-use)
 
+---
 
 ## Exercises
 
 <details>
-<summary><h3>Exercise 1: Hello World  ✅</h3></summary>
+<summary>**Exercise 1: Hello World ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./01_helloWorld/README.md)
@@ -26,10 +29,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 14-06-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 2: Add Numbers  ✅</h3></summary>
+<summary>**Exercise 2: Add Numbers ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./02_addNumbers/README.md)
@@ -37,29 +38,25 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 #### My Solution:
 [addNumbers.js](./02_addNumbers/addNumbers.js)
 
-
 #### Date of Completion:
 14-06-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 3: Number Checker  ✅</h3></summary>
+<summary>**Exercise 3: Number Checker ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./03_numberChecker/README.md)
 
 #### My Solution:
 [numberChecker.js](./03_numberChecker/numberChecker.js)
+
 #### Date of Completion:
 14-06-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 4: Math Equations  ✅</h3></summary>
+<summary>**Exercise 4: Math Equations ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./04_mathEquation/README.md)
@@ -71,10 +68,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 14-06-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 5: Join Strings  ✅</h3></summary>
+<summary>**Exercise 5: Join Strings ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./05_joinStrings/README.md)
@@ -86,10 +81,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 14-06-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 6: Repeat String  ✅</h3></summary>
+<summary>**Exercise 6: Repeat String ✅**</summary>
 
 #### Task / Instructions:
 [README with instructions](./06_repeatString/README.md)
@@ -101,10 +94,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 24-07-2025
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 7: Reverse String </h3></summary>
+<summary>**Exercise 7: Reverse String**</summary>
 
 #### Task / Instructions:
 [README with instructions](./07_reverseString/README.md)
@@ -116,10 +107,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 8: Remove From Array</h3></summary>
+<summary>**Exercise 8: Remove From Array**</summary>
 
 #### Task / Instructions:
 [README with instructions](./08_removeFromArray/README.md)
@@ -131,10 +120,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 9: Sum All</h3></summary>
+<summary>**Exercise 9: Sum All**</summary>
 
 #### Task / Instructions:
 [README with instructions](./09_sumAll/README.md)
@@ -146,10 +133,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 10: Leap Years</h3></summary>
+<summary>**Exercise 10: Leap Years**</summary>
 
 #### Task / Instructions:
 [README with instructions](./10_leapYears/README.md)
@@ -161,10 +146,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 11: Temp Conversion</h3></summary>
+<summary>**Exercise 11: Temp Conversion**</summary>
 
 #### Task / Instructions:
 [README with instructions](./011_tempCoversion/README.md)
@@ -176,10 +159,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 12: Calculator</h3></summary>
+<summary>**Exercise 12: Calculator**</summary>
 
 #### Task / Instructions:
 [README with instructions](./12_calculator/README.md)
@@ -191,10 +172,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 13: Palindromes</h3></summary>
+<summary>**Exercise 13: Palindromes**</summary>
 
 #### Task / Instructions:
 [README with instructions](./13_palindromes/README.md)
@@ -206,14 +185,11 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 14: Fibonacci</h3></summary>
+<summary>**Exercise 14: Fibonacci**</summary>
 
 #### Task / Instructions:
 [README with instructions](./14_fibonacci/README.md)
-
 
 #### My Solution:
 /
@@ -222,10 +198,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 15: Get The Titles</h3></summary>
+<summary>**Exercise 15: Get The Titles**</summary>
 
 #### Task / Instructions:
 [README with instructions](./15_getTheTitles/README.md)
@@ -237,10 +211,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 /
 </details>
 
----
-
 <details>
-<summary><h3>Exercise 16: Find The Oldest</h3></summary>
+<summary>**Exercise 16: Find The Oldest**</summary>
 
 #### Task / Instructions:
 [README with instructions](./16_findTheOldest/README.md)
@@ -253,27 +225,27 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 </details>
 
 ---
+
 ## TOP Instructions
 
 ### Contributing 
 
 <details>
-<summary><h3>Contributing</h3></summary>
+<summary>**Contributing**</summary>
 
 If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/javascript-exercises/blob/main/CONTRIBUTING.md).
 </details>
 
----
 
 ### How To Use
 
 <details>
-<summary><h3>How To Use These Exercises</h3></summary>
+<summary>**How To Use These Exercises**</summary>
 
 1.  Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
     * Copies of repositories on your machine are called clones. If you need help cloning to your local environment you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 2.  Before you start working on any exercises, you should first ensure you have the following installed:
-    * **NPM**. You should have installed NPM already in our [Installing Node.js](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/installing-node-js) lesson. Just in case you need to check, type `npm --version` in your terminal. If you get back `Command 'npm' not found, but can be installed with:`, **do not follow the instructions in the terminal** to install with `apt-get` as this causes permission issues. Instead, go back to the installation lesson and install Node with NVM by following the instructions there.
+    * **NPM**. You should have installed NPM already in our [Installing Node.js](https://www.odinproject.com/paths/foundations/courses/foundations/lessons/installing-node-js) lesson. Just in case you need to check, type `npm --version` in your terminal. If you get back `Command 'npm' not found, but can be installed with:`, **do not follow the instructions in the terminal** to install with `apt-get` as this causes permission issues. Instead, go back to the installation lesson and install Node with NVM by following the instructions there.
     * **Jest**. After cloning this repository to your local machine and installing NPM, go into the newly created directory (`cd javascript-exercises`) and run `npm install`. This will install Jest and set up the testing platform based on our preconfigured settings. (Note: if you get warnings that packages are out of date or contain vulnerabilities, you can safely ignore them for these exercises.)
 3.  Each exercise includes the following:
     * A markdown file with a description of the task, an empty (or mostly empty) JavaScript file, and a set of tests.
@@ -288,16 +260,10 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 > Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
 
 > [!NOTE]
-> Due to the way Jest handles failed tests, it may return an exit code
-ode of 1 if any tests fail. NPM will interpret this as an error and you may see some `npm ERR!` messages after Jest runs. You can ignore these, or run your test with `npm test exerciseName.spec.js --silent` to suppress the errors.
+> Due to the way Jest handles failed tests, it may return an exit code of 1 if any tests fail. NPM will interpret this as an error and you may see some `npm ERR!` messages after Jest runs. You can ignore these, or run your test with `npm test exerciseName.spec.js --silent` to suppress the errors.
 
 The first exercise, `helloWorld`, will walk you through the process in-depth.
 </details>
 
----
-
 <details>
-<summary><h3>Debugging</h3></summary>
-
-To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>, then clicking JavaScript Debug Terminal. You will be able to set breakpoints as you would in the Chrome DevTools debugger. You can run `npm test exerciseName.spec.js` to then execute your code up until your breakpoint and step through your code as necessary. **NOTE**: To take advantage of the debugger, you **MUST** run the script in the debugger terminal, not the bash or zsh terminal.
-</details>
+<summary>**
