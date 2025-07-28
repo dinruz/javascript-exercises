@@ -48,8 +48,8 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 <details>
 <summary><strong>Exercise 4: Math Equations ✅</strong></summary>
 
-* **Task / Instructions:** [README with instructions](./04_mathEquation/README.md)
-* **My Solution:** [mathEquations.js](./04_mathEquation/mathEquations.js)
+* **Task / Instructions:** [README with instructions](./04_mathEquations/README.md)
+* **My Solution:** [mathEquations.js](./04_mathEquations/mathEquations.js)
 * **Date of Completion:** 14-06-2025
 </details>
 
@@ -86,11 +86,11 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 ---
 
 <details>
-<summary><strong>Exercise 8: Remove From Array ⌛</strong></summary>
+<summary><strong>Exercise 8: Remove From Array ✅</strong></summary>
 
 * **Task / Instructions:** [README with instructions](./08_removeFromArray/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
+* **My Solution:** [removeFromArray.js](./06_reverseString/removeFromArray.js)
+* **Date of Completion:** 28-07-2025
 </details>
 
 ---
