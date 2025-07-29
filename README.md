@@ -96,11 +96,11 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 ---
 
 <details>
-<summary><strong>Exercise 9: Sum All ⌛</strong></summary>
+<summary><strong>Exercise 9: Sum All ✅</strong></summary>
 
 * **Task / Instructions:** [README with instructions](./09_sumAll/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
+* **My Solution:** [sumAll.js](./09_sumAll/sumAll.js)
+* **Date of Completion:** 29-07-2025
 </details>
 
 ---
