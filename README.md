@@ -106,21 +106,21 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 ---
 
 <details>
-<summary><strong>Exercise 10: Leap Years ⌛</strong></summary>
+<summary><strong>Exercise 10: Leap Years ✅</strong></summary>
 
 * **Task / Instructions:** [README with instructions](./10_leapYears/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
+* **My Solution:** [leapYears.js](./10_leapYears/leapYears.js)
+* **Date of Completion:** 29-07-2025
 </details>
 
 ---
 
 <details>
-<summary><strong>Exercise 11: Temp Conversion ⌛</strong></summary>
+<summary><strong>Exercise 11: Temp Conversion ✅</strong></summary>
 
 * **Task / Instructions:** [README with instructions](./11_tempConversion/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
+* **My Solution:** [tempConversion.js](./11_tempConcersion/tempConversion.js)
+* **Date of Completion:** 29-07-2025
 </details>
 
 ---
