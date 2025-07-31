@@ -1,191 +1,43 @@
 # JavaScript Exercises
 
-These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
+These JavaScript exercises are developed by [The Odin Project](https://www.theodinproject.com/) (TOP)
+and are intended to complement their JavaScript curriculum. 
 
----
+They should only be done when instructed during the course of the curriculum and they are designed to be completed with **automated tests** using *Jest* to verify solutions.
+
 
 ## Table of Contents
 
 - [Exercises](#exercises)
-- [Instructions](#top-instructions)
-    - [Contributing](#contributing)
+- [Instructions by TOP](#instructions-from-the-odin-project)
     - [How to Use](#how-to-use)
+    - [Contributing](#contributing)
 
----
 
 ## Exercises
 
-<details>
-<summary><strong>Exercise 1: Hello World ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./01_helloWorld/README.md)
-* **My Solution:** [helloWorld.js](./01_helloWorld/helloWorld.js)
-* **Date of Completion:** 14-06-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 2: Add Numbers ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./02_addNumbers/README.md)
-* **My Solution:** [addNumbers.js](./02_addNumbers/addNumbers.js)
-* **Date of Completion:** 14-06-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 3: Number Checker ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./03_numberChecker/README.md)
-* **My Solution:** [numberChecker.js](./03_numberChecker/numberChecker.js)
-* **Date of Completion:** 14-06-2025
-</details>
+| No. | Exercise Name        | Status | Date of Completion | Task / Instructions       | My Solution           |
+| :-- | :------------------- | :----- | :----------------- | :------------------------ | :-------------------- |
+| 01  | Hello World          | ✔️     | 14-06-2025         | [README](./01_helloWorld/README.md)       | [helloWorld.js](./01_helloWorld/helloWorld.js) |
+| 02  | Add Numbers          | ✔️     | 14-06-2025         | [README](./02_addNumbers/README.md)       | [addNumbers.js](./02_addNumbers/addNumbers.js) |
+| 03  | Number Checker       | ✔️     | 14-06-2025         | [README](./03_numberChecker/README.md)    | [numberChecker.js](./03_numberChecker/numberChecker.js) |
+| 04  | Math Equations       | ✔️     | 14-06-2025         | [README](./04_mathEquations/README.md)    | [mathEquations.js](./04_mathEquations/mathEquations.js) |
+| 05  | Join Strings         | ✔️     | 14-06-2025         | [README](./05_joinStrings/README.md)      | [joinStrings.js](./05_joinStrings/joinStrings.js) |
+| 06  | Repeat String        | ✔️     | 24-07-2025         | [README](./06_repeatString/README.md)     | [repeatString.js](./06_repeatString/repeatString.js) |
+| 07  | Reverse String       | ✔️     | 24-07-2025         | [README](./07_reverseString/README.md)    | [reverseString.js](./07_reverseString/reverseString.js) |
+| 08  | Remove From Array    | ✔️     | 28-07-2025         | [README](./08_removeFromArray/README.md)  | [removeFromArray.js](./08_removeFromArray/removeFromArray.js) |
+| 09  | Sum All              | ✔️     | 29-07-2025         | [README](./09_sumAll/README.md)           | [sumAll.js](./09_sumAll/sumAll.js) |
+| 10  | Leap Years           | ✔️     | 29-07-2025         | [README](./10_leapYears/README.md)        | [leapYears.js](./10_leapYears/leapYears.js) |
+| 11  | Temp Conversion      | ✔️     | 29-07-2025         | [README](./11_tempConversion/README.md)   | [tempConversion.js](./11_tempConcersion/tempConversion.js) |
+| 12  | Calculator           | ⏳     | -                  | [README](./12_calculator/README.md)       | -                     |
+| 13  | Palindromes          | ⏳     | -                  | [README](./13_palindromes/README.md)      | -                     |
+| 14  | Fibonacci            | ⏳     | -                  | [README](./14_fibonacci/README.md)        | -                     |
+| 15  | Get The Titles       | ⏳     | -                  | [README](./15_getTheTitles/README.md)     | -                     |
+| 16  | Find The Oldest      | ⏳     | -                  | [README](./16_findTheOldest/README.md)    | -                     |
 
 ---
 
-<details>
-<summary><strong>Exercise 4: Math Equations ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./04_mathEquations/README.md)
-* **My Solution:** [mathEquations.js](./04_mathEquations/mathEquations.js)
-* **Date of Completion:** 14-06-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 5: Join Strings ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./05_joinStrings/README.md)
-* **My Solution:** [joinStrings.js](./05_joinStrings/joinStrings.js)
-* **Date of Completion:** 14-06-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 6: Repeat String ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./06_repeatString/README.md)
-* **My Solution:** [repeatString.js](./06_repeatString/repeatString.js)
-* **Date of Completion:** 24-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 7: Reverse String ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./07_reverseString/README.md)
-* **My Solution:** [reverseString.js](./06_reverseString/reverseString.js)
-* **Date of Completion:** 24-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 8: Remove From Array ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./08_removeFromArray/README.md)
-* **My Solution:** [removeFromArray.js](./06_reverseString/removeFromArray.js)
-* **Date of Completion:** 28-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 9: Sum All ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./09_sumAll/README.md)
-* **My Solution:** [sumAll.js](./09_sumAll/sumAll.js)
-* **Date of Completion:** 29-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 10: Leap Years ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./10_leapYears/README.md)
-* **My Solution:** [leapYears.js](./10_leapYears/leapYears.js)
-* **Date of Completion:** 29-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 11: Temp Conversion ✅</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./11_tempConversion/README.md)
-* **My Solution:** [tempConversion.js](./11_tempConcersion/tempConversion.js)
-* **Date of Completion:** 29-07-2025
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 12: Calculator ⌛</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./12_calculator/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 13: Palindromes ⌛</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./13_palindromes/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 14: Fibonacci ⌛</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./14_fibonacci/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 15: Get The Titles ⌛</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./15_getTheTitles/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
-</details>
-
----
-
-<details>
-<summary><strong>Exercise 16: Find The Oldest ⌛</strong></summary>
-
-* **Task / Instructions:** [README with instructions](./16_findTheOldest/README.md)
-* **My Solution:** /
-* **Date of Completion:** /
-</details>
-
----
-
-## TOP Instructions 
-
-### Contributing 
-
-<details>
-<summary><strong>Contributing</strong></summary>
-
-If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/javascript-exercises/blob/main/CONTRIBUTING.md).
-</details>
-
----
+## Instructions from The Odin Project
 
 ### How To Use
 
@@ -215,9 +67,18 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 The first exercise, `helloWorld`, will walk you through the process in-depth.
 </details>
 
----
 
 <details>
 <summary><strong>Debugging</strong></summary>
 
-To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</
+To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>
+</details>
+
+
+### Contributing 
+
+<details>
+<summary><strong>Contributing</strong></summary>
+
+If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/javascript-exercises/blob/main/CONTRIBUTING.md).
+</details>
